@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Belajar React #1",
+      "body": "React is a JavaScript library for building user interfaces. React is used to build single-page applications.\nReact allows us to create reusable UI components.\nLorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam quam molestias corrupti corporis quae non ea voluptatibus odit veritatis, rerum similique quisquam unde, aliquam necessitatibus sint fuga minima recusandae! Sint enim inventore debitis quaerat pariatur itaque, dolore veniam minima maiores maxime voluptate labore amet suscipit magnam, modi reprehenderit, vitae unde velit sapiente iusto. Fugiat tempore placeat ducimus expedita ex temporibus ab culpa maxime vel pariatur dicta, fugit voluptates recusandae. Sed iste incidunt harum! Molestias quasi quas nam repellat hic, libero iste reprehenderit repudiandae, deserunt amet ab eos assumenda non adipisci qui corporis consectetur eum ullam impedit voluptatum? Quod earum incidunt nemo, voluptatem iste accusantium eligendi enim quis, voluptate libero obcaecati illum adipisci aut voluptatum nulla sequi, ducimus pariatur eum harum facilis. Illum sapiente deserunt, alias nesciunt explicabo maiores hic? Suscipit animi sit odit asperiores ratione quo, inventore reprehenderit optio modi pariatur omnis eveniet? Quidem sed aut et, expedita magnam corrupti! Nam ex nesciunt qui sint officiis tempora accusantium, blanditiis expedita veniam adipisci cum accusamus, debitis quidem facilis illo enim molestiae reprehenderit alias ipsam. Optio, sequi illo. Deleniti aliquid provident nam aliquam quaerat nulla numquam dolor, sequi sed commodi repudiandae, maiores harum voluptatum quo beatae velit ipsum quasi? Blanditiis, tempore eaque.\nFugiat tempore placeat ducimus expedita ex temporibus ab culpa maxime vel pariatur dicta, fugit voluptates recusandae. Sed iste incidunt harum! Molestias quasi quas nam repellat hic, libero iste reprehenderit repudiandae, deserunt amet ab eos assumenda non adipisci qui corporis consectetur eum ullam impedit voluptatum? Quod earum incidunt nemo, voluptatem iste accusantium eligendi enim quis, voluptate libero obcaecati illum adipisci aut voluptatum nulla sequi, ducimus pariatur eum harum facilis. Illum sapiente deserunt, alias nesciunt explicabo maiores hic? Suscipit animi sit odit asperiores ratione quo, inventore reprehenderit optio modi pariatur omnis eveniet? Quidem sed aut et, expedita magnam corrupti! Nam ex nesciunt qui sint officiis tempora accusantium, blanditiis expedita veniam adipisci cum accusamus, debitis quidem facilis illo enim molestiae reprehenderit alias ipsam.\nFugiat tempore placeat ducimus expedita ex temporibus ab culpa maxime vel pariatur dicta, fugit voluptates recusandae. Sed iste incidunt harum! Molestias quasi quas nam repellat hic, libero iste reprehenderit repudiandae, deserunt amet ab eos assumenda non adipisci qui corporis consectetur eum ullam impedit voluptatum? Quod earum incidunt nemo, voluptatem iste accusantium eligendi enim quis.",
+      "author": "Moli"
+    },
+    {
+      "id": 2,
+      "title": "Belajar React #2",
+      "body": "What is React?\nReact, sometimes referred to as a frontend JavaScript framework, is a JavaScript library created by Facebook.React is a tool for building UI components.",
+      "author": "Moli"
+    },
+    {
+      "id": 3,
+      "title": "Belajar React #3",
+      "body": "Start by including three scripts, the first two let us write React code in our JavaScripts, and the third, Babel, allows us to write JSX syntax and ES6 in older browsers.",
+      "author": "Moli"
+    },
+    {
+      "id": 4,
+      "title": "Belajar HTML #1",
+      "body": "What is HTML ?\n HTML is Hyper Text Markup Language that used to show the page in browser.",
+      "author": "Mochi"
+    },
+    {
+      "title": "asdadsasd",
+      "body": "adsdasdasas",
+      "author": "mochi",
+      "id": 5
+    }
+  ]
+}
